@@ -3,6 +3,8 @@ Recommender systems are one of the most successful and widespread application of
 
 # Algorithms implemented and evaluated
   * Content based filtering
+     * Using cosine similarity between movies
+     *Using knn algorithm to find similarity between 2 movies
   * Collaborative Filtering
     * Memory based collaborative filtering
       * User-Item Filtering
